@@ -1,1 +1,1 @@
-This is Curtis' first git project! SOS
+This is my first git project! SOS
